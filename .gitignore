@@ -4,6 +4,8 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+penguin/Assets/VRM
+penguin/Assets/VRMShaders
  
 # Visual Studio cache directory
 .vs/
